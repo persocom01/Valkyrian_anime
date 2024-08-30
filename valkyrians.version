@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"",
+    "masterVersionFile":"https://raw.githubusercontent.com/persocom01/Valkyrian-anime/master/valkyrians.version",
     "modName":"Valkyrians",
     "modVersion":
     {
         "major":3,
         "minor":2,
-        "patch":2
+        "patch":2ea2
     },
     "starsectorVersion":"0.96a-RC10"
 }
