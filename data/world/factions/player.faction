@@ -1,10 +1,6 @@
 {
   "portraits": {
     "standard_female": [
-      "graphics/portraits/Valk_M_1.png",
-      "graphics/portraits/Valk_M_2.png",
-      "graphics/portraits/Valk_F_1.png",
-      "graphics/portraits/Valk_F_2.png",
       "graphics/portraits/Valk_F_3.png",
       "graphics/portraits/Valk_F_4.png",
       "graphics/portraits/Valk_F_5.png",

@@ -1,7 +1,0 @@
-{
-	"baseHullId":"valk_yoshura_prime",
-	"skinHullId":"valk_yoshura_prime_normal",
-	"descriptionId":"valk_yoshura_prime",  # optional
-	"addHints":[HIDE_IN_CODEX],
-	"builtInMods":["valk_yoshuraSkinNormal"],
-}
