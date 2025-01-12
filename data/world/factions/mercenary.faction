@@ -3,6 +3,7 @@
     "standard_female": [
       "graphics/portraits/Valk_M_1.png",
       "graphics/portraits/Valk_M_2.png",
+      "graphics/portraits/Valk_M_3.png",
       "graphics/portraits/Valk_F_1.png",
       "graphics/portraits/Valk_F_2.png",
       "graphics/portraits/Valk_F_3.png",
@@ -14,7 +15,7 @@
       "graphics/portraits/Valk_F_9.png",
       "graphics/portraits/Valk_F_10.png",
       "graphics/portraits/Valk_F_11.png",
-      "graphics/portraits/Valk_F_12.png",
+      "graphics/portraits/Valk_F_12.png"
     ]
   },
 }

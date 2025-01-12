@@ -2,7 +2,7 @@
   "id": "valkyrian_anime",
   "name": "Valk - anime",
   "author": "persocom01",
-  "version": {"major": 1, "minor": 0, "patch": 0},
+  "version": {"major": 1, "minor": 1, "patch": 0},
   "description": "Valkyrian anime portrait replacer",
   "gameVersion": "0.97"
 }
