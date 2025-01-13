@@ -1,6 +1,8 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/persocom01/Valkyrian-anime/master/valkyrians.version",
     "modName":"Valk - anime",
+    "modThreadId": "30560",
+    "directDownloadURL": "https://github.com/persocom01/Valkyrian_EN/releases/latest/download/Valkyrian_anime.zip",
     "modVersion":
     {
         "major":1,
