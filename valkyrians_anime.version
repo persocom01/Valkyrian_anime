@@ -7,7 +7,7 @@
     {
         "major":1,
         "minor":1,
-        "patch":0
+        "patch":1
     },
-    "starsectorVersion":"0.97"
+    "starsectorVersion":"0.98"
 }
