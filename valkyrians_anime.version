@@ -8,7 +8,6 @@
         "minor":1,
         "patch":1
     },
-    "starsectorVersion":"0.98a",
     "directDownloadURL": "https://github.com/persocom01/Valkyrian_anime/releases/latest/download/Valkyrian_anime.zip",
     "changelogURL": "https://raw.githubusercontent.com/persocom01/Valkyrian_anime/refs/heads/master/Changelog"
 }
